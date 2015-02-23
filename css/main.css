@@ -1,0 +1,102 @@
+
+body {
+margin:0;
+padding:0;
+height:100%;
+}
+
+.container{
+	background-color: white;
+	min-height:100%;
+	position:relative;
+}
+
+#data{
+	margin-left: 1%;
+}
+
+#footer{
+	width:100%;
+	height:6%;
+	position:absolute;
+	bottom:0;
+}	
+
+.header{
+	background-color: #1873CC;
+	float: left;
+    width: 100%;
+    margin-bottom: 1%;
+}
+.header h1{
+	margin-left: 1%;
+	color: white;
+}
+.header h1,h5{
+  	display:inline-block;
+  	vertical-align:middle;
+  	margin-right: 0.5%;
+}
+
+.navbar{
+	background: black;
+	clear: left;
+	width: 100%;
+}
+
+.navbar_items{
+	display:inline-block;
+  	margin-left: 3%;
+  	padding-top: 1%;
+	padding-bottom: 2.5%;
+	height: 0%;
+}
+
+.navbar_items a{
+	color: white;
+}
+
+.navbar_items a:hover {
+    color: green;
+}
+
+.containt{
+	display: inline-block;
+	vertical-align: top;	
+}
+
+.sider_data{
+	width: 20%;
+	float: left;
+}
+
+.links h3{
+	background: #3366CC;
+	margin: 0 0 0 0%;
+	padding-left: 11%;
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+
+.links a{
+	color: blue;
+}
+
+.links a:hover{
+	color: green;
+}
+
+.links li{
+	list-style-type:none;
+	margin: 15 5 5 -7%;
+}
+
+.information_data{
+	margin-left: 22%;
+}
+
+.footer{
+	background: #3366CC;
+	text-align: center;
+}
+
