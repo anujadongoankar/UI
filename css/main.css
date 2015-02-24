@@ -23,7 +23,7 @@ height:100%;
 }	
 
 .header{
-	background-color: #1873CC;
+	background-color: #ABD3FA;
 	float: left;
     width: 100%;
     margin-bottom: 1%;
@@ -39,7 +39,7 @@ height:100%;
 }
 
 .navbar{
-	background: black;
+	background: rgb(129, 125, 125);
 	clear: left;
 	width: 100%;
 }
@@ -71,7 +71,7 @@ height:100%;
 }
 
 .links h3{
-	background: #3366CC;
+	background: #6BE09E;
 	margin: 0 0 0 0%;
 	padding-left: 11%;
 	padding-bottom: 3%;
@@ -96,7 +96,11 @@ height:100%;
 }
 
 .footer{
-	background: #3366CC;
+	background: #ABD3FA;
 	text-align: center;
+}
+
+.footer h6{
+	margin-top: 1%;
 }
 
