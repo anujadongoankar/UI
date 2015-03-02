@@ -111,16 +111,16 @@ height:100%;
 	margin-bottom: 5px;
 }
 .footer{
-	background: #968484;
+	background: #5c8fac;
 	text-align: center;
 	width: 1280px;
-	height: 53px;
+	height: 30px;
 	position: absolute;
 	bottom: 0;
 }
 
 .footer h6{
-	margin-top: 22px;
+	margin-top: 10px;
 
 }
 
