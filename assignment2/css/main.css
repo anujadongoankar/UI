@@ -9,21 +9,16 @@
 	border-color: #9ec29e;
 	margin: 0px 40px; 
 	width:1120px;
-	position: relative;
 	display: inline-block;
 }
 
 .header-label{
 	float: right;
 	margin: 23px 111px;
-  	clear: left;
 }
 
 a{
 	text-decoration: none;
-}
-.header a{
-  color: black;
 }
 
 .gray-label{
@@ -43,12 +38,7 @@ a{
 	width: 200px;
 }
 
-.title{
-	width: 0px;
-	
-}
 .title-label {
-	font-weight: 100;
   	font-size: 32px;
 }
 
@@ -68,7 +58,7 @@ a{
 .image{
 	position: absolute;
 	top:51px;
-	left:315px;
+	left:354px;
 	width: 700px;
 	height: 241px;
 }
