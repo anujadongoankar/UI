@@ -13,16 +13,22 @@
     width:100%;
     padding:15px;
     display:inline-block;
-    border-top:1px solid #c5c5c5;
+    border:1px solid #c5c5c5;
     transition:all linear 0.15s;
     /*  Type */ 
     font-size:14px;
-    color: black
+    color: black;
+    margin: 0.5px;
+}
+.accordion-section-title:before{
+    content: ">"
 }
  
 .accordion-section-title.active, .accordion-section-title:hover {
     /* Type */ 
     text-decoration:none;
+     border-bottom:none;
+     border-left: none;
 }
  
 .accordion-section:last-child .accordion-section-title {
