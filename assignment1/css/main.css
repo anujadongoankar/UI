@@ -2,26 +2,20 @@
 	margin: 0;
 	padding: 0;
 }
-
-.body {
-	width: 1280px;
-	font-family: Verdana,Sans-serif
-}
-
 .container{
-	background-color: white;
-	min-height:913px;
+    width: 1175px;
+    font-family: Verdana,Sans-serif;
+	min-height:686px;
 	position:relative;
-	margin: 0 8px;
-	font-family: sans-serif;
+	margin: 0 auto;
+	vertical-align: middle;
 }
 
 .header{
 	background-color: #5c8fac;
 	float: left;
-	width: 1280px;
+	width: 1175px;
 	margin: 8 0 8px;
-	
 	height: 72px;
 }
 .header h1{
@@ -42,7 +36,7 @@
 .navbar{
 	background: #383838;
 	clear: left;
-	width: 1280px;
+	width: 1175px;
 	height: 50px;
 }
 .navbar_items{
@@ -98,8 +92,15 @@
 	margin:13px 0 0px 18px;
 }
 
-#categories{
+.links a{
+    text-decoration:none;
+}
+
+.categories{
 	margin-top: 25px;
+}
+hr{
+    color: rgba(0,0,0,0.25);
 }
 .information_data{
 	margin-left: 255px;
@@ -118,7 +119,7 @@
 .footer{
 	background: #5c8fac;
 	text-align: center;
-	width: 1280px;
+	width: 1175px;
 	height: 30px;
 	position: absolute;
 	bottom: 0;
