@@ -8,7 +8,6 @@
 	min-height:686px;
 	position:relative;
 	margin: 0 auto;
-	vertical-align: middle;
 }
 
 .header{
@@ -127,6 +126,5 @@ hr{
 
 .footer h6{
 	margin-top: 10px;
-
 }
 

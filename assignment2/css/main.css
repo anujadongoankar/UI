@@ -10,7 +10,7 @@
 	margin: 0px 40px; 
 	width:1120px;
 	margin: 0 auto;
-    vertical-align: middle;
+    background: #f9f9f9;
 }
 
 .header-label{
@@ -59,9 +59,9 @@ a{
 .image{
 	position: absolute;
 	top:51px;
-	left:389px;
 	width: 700px;
 	height: 241px;
+	margin:0px 310px;
 }
 
 
@@ -78,14 +78,16 @@ hr{
 	margin: 0px 111px 0px 19px;
 	padding: 9px;
     border-radius: 3px;
+    background:white;
 }
 
 .data-column {
   	margin: 35px 0px 15px 19px;
+  	overflow:hidden;
 
 }
 .data-column-section{
-	width: 212px;
+	width: 216px;
 	float: left;
   	margin: 0px 79px 0px 0px;
 }
@@ -113,5 +115,5 @@ hr{
     margin: 0px 5px 0px 0px;
     border: solid 1px;
     border-radius: 3px;
-    padding: 0px 2px 0px 0px;
+    padding: 0px 3px 1px 3px;
 }
