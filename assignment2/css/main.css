@@ -9,7 +9,8 @@
 	border-color: #9ec29e;
 	margin: 0px 40px; 
 	width:1120px;
-	display: inline-block;
+	margin: 0 auto;
+    vertical-align: middle;
 }
 
 .header-label{
@@ -58,7 +59,7 @@ a{
 .image{
 	position: absolute;
 	top:51px;
-	left:354px;
+	left:389px;
 	width: 700px;
 	height: 241px;
 }
